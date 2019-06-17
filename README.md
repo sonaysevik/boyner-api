@@ -1,2 +1,0 @@
-# boyner-api
-boyner-api
