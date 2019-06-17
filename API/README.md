@@ -1,0 +1,1 @@
+﻿This is a simple app to demonstrate realtime configuration udpates that are saved on MongoDB instance.
