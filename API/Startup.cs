@@ -26,7 +26,7 @@ namespace API
 
 
             //initialize config reader object 
-            configReader = new ConfigReader("mongodb://test:test@localhost/admin", "ServiceA", 30);
+            configReader = new ConfigReader("mongodb://test:test@localhost/admin", "ServiceA", 30000);
             try
             {
                 configReader.connect("admin");
