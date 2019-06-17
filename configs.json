@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5d019dd5d22be9f4419e2dba"},"name":"SiteName","type":"String","value":"boyner.com.tr","isActive":1,"applicationName":"ServiceA"}
+{"_id":{"$oid":"5d019e4cd22be9f4419e2de2"},"name":"isBasketEnabled","type":"Boolean","value":"1","isActive":1,"applicationName":"ServiceB"}
+{"_id":{"$oid":"5d019e69d22be9f4419e2dee"},"name":"maxItemCount","type":"Int","value":"50","isActive":0,"applicationName":"ServiceA"}
+{"_id":{"$oid":"5d0695e3087cbf6ea8e2546e"},"name":"RequestCount","type":"Int","value":"80","isActive":1,"applicationName":"ServiceA"}
+{"_id":{"$oid":"5d0698c5087cbf6ea8e25527"},"name":"SampleDoubleConfiguration","type":"Double","value":"70.3","isActive":1,"applicationName":"ServiceA"}
+{"_id":{"$oid":"5d069a55087cbf6ea8e255aa"},"name":"SampleBooleanConfiguration","type":"Boolean","value":"1","isActive":1,"applicationName":"ServiceA"}
+{"_id":{"$oid":"5d06cc20087cbf6ea8e2b6de"},"name":"SampleIntValue","type":"Int","value":"45","isActive":1,"applicationName":"ServiceA"}
