@@ -12706,11 +12706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sonay.sevik/Documents/Projects/internal/API/API/API.csproj",
+      "projectUniqueName": "/Users/sonay.sevik/Documents/Projects/internal/boyner-api/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/sonay.sevik/Documents/Projects/internal/API/API/API.csproj",
+      "projectPath": "/Users/sonay.sevik/Documents/Projects/internal/boyner-api/API/API.csproj",
       "packagesPath": "/Users/sonay.sevik/.nuget/packages/",
-      "outputPath": "/Users/sonay.sevik/Documents/Projects/internal/API/API/obj/",
+      "outputPath": "/Users/sonay.sevik/Documents/Projects/internal/boyner-api/API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
